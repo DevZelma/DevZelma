@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevZelma
-- 👀 I’m interested in learning to code 
-- 🌱 I’m currently learning python
-- 💞️ 
+-  I’m interested in learning to code 
+- 
+- 
 -
 
 <!---
