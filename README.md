@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevZelma
--  I’m interested in learning to code 
+- I'm a third year software engineering student.
 - 
 - 
 -
