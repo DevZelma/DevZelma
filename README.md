@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DevZelma
-- I'm a third year software engineering student.
 - 
 - 
 -
